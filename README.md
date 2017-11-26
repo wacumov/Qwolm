@@ -1,10 +1,10 @@
 # Qwolm
 
 ![Swift Version](https://img.shields.io/badge/Swift-4.0-green.svg)
-[![Version](https://img.shields.io/cocoapods/v/Qwolm.svg?style=flat)](http://cocoapods.org/pods/Qwolm)
-[![License](https://img.shields.io/cocoapods/l/Qwolm.svg?style=flat)](http://cocoapods.org/pods/Qwolm)
 [![Platform](https://img.shields.io/cocoapods/p/Qwolm.svg?style=flat)](http://cocoapods.org/pods/Qwolm)
+[![Version](https://img.shields.io/cocoapods/v/Qwolm.svg?style=flat)](http://cocoapods.org/pods/Qwolm)
 [![CI Status](http://img.shields.io/travis/wacumov/Qwolm.svg?style=flat)](https://travis-ci.org/wacumov/Qwolm)
+[![codebeat badge](https://codebeat.co/badges/7b09701c-d1fd-44e8-8576-48f860817392)](https://codebeat.co/projects/github-com-wacumov-qwolm-master)
 
 A simple utility for handling cases when:
 - new calls of a long-running task may arrive before it is completed;
