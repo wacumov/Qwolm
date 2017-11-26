@@ -1,0 +1,6 @@
+framework module Qwolm {
+  umbrella header "Qwolm-umbrella.h"
+
+  export *
+  module * { export * }
+}

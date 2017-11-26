@@ -4,7 +4,7 @@ target 'Qwolm_Example' do
   pod 'Qwolm', :path => '../'
 
   target 'Qwolm_Tests' do
-    inherit! :search_paths
+    pod 'Qwolm', :path => '../'
 
     
   end

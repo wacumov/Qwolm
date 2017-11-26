@@ -1,0 +1,22 @@
+{
+  "name": "Qwolm",
+  "version": "0.1.0",
+  "summary": "A short description of Qwolm.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wacumov/Qwolm",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mikhail Akopov": "mikhail.akopov@aol.com"
+  },
+  "source": {
+    "git": "https://github.com/wacumov/Qwolm.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Qwolm/Classes/**/*"
+}
