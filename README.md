@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/Qwolm.svg?style=flat)](http://cocoapods.org/pods/Qwolm)
 [![License](https://img.shields.io/cocoapods/l/Qwolm.svg?style=flat)](http://cocoapods.org/pods/Qwolm)
 [![Platform](https://img.shields.io/cocoapods/p/Qwolm.svg?style=flat)](http://cocoapods.org/pods/Qwolm)
+[![CI Status](http://img.shields.io/travis/wacumov/Qwolm.svg?style=flat)](https://travis-ci.org/wacumov/Qwolm)
 
 A simple utility for handling cases when:
 - new calls of a long-running task may arrive before it is completed;
